@@ -133,8 +133,8 @@
       "url": "https://d.kstore.dev/download/4684/1api.json?password=d0e28b9dbb9d51773f231238b787789c-1732729526488"
     },
     {
-      "name": "❤️🥮秋天的微风🍀❤️仓库/文艺",
-      "url": "https://d.kstore.dev/download/4684/55api.json"
+      "name": "❤️🥮秋天的微风🍀❤️仓库/戏曲音乐",
+      "url": "https://ys.mohuajz.eu.org/戏曲音乐/api.json"
     },
     {
       "name": "❤️🥮秋天的微风🍀❤️仓库/刺刺音乐",
