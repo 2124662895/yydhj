@@ -9,30 +9,6 @@
       "name": "💕幸福年年❤️-摸鱼儿💓"
     },
     {
-      "url": "http://wpyt.hk/tvbox/cun/chun.bmp",
-      "name": "幸福年年❤️❤️-春盈天下❤️"
-    },
-    {
-      "url": "https://ys.mohuajz.eu.org/开心软件/api.json",
-      "name": "幸福年年❤️❤️-天天开心❤️"
-    },
-    {
-      "url": "https://ys.mohuajz.eu.org/付豪影视/付豪影视.json",
-      "name": "幸福年年❤️❤️-付豪影视❤️"
-    },
-    {
-      "url": "https://ys.mohuajz.eu.org/DG影院/api.json",
-      "name": "幸福年年❤️❤️-DG影院❤️"
-    },
-  {
-      "url": "https://ys.mohuajz.eu.org/tvboxTW/真心/api.json",
-      "name": "💕幸福年年❤️-真心💓"
-    }, 
-    {
-      "url": "https://ys.mohuajz.eu.org/tvboxTW/七星影仓/api.json",
-      "name": "💕幸福年年❤️-七星影视💓"
-    },
-    {
       "url": "https://12703.kstore.space/%E5%B0%91%E5%84%BF%E9%A2%91%E9%81%93/0319.json",
       "name": "💕幸福年年❤️-少儿频道💓"
     },
@@ -40,10 +16,6 @@
       "url": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1742265799997/总统影院学堂16.1.1.json",
       "name": "💕幸福年年❤️-总统影视💓"
     },
-   {
-      "url": "https://ys.mohuajz.eu.org/波哥影视/波哥影视.json",
-      "name": "💕幸福年年❤️-波哥影视💓"
-    }, 
     {
       "url": "https://gitee.com/pulling-sister/xiaoya/raw/master/xiaoya.json",
       "name": "💕幸福年年❤️-小雅影视4K💓"
@@ -51,10 +23,6 @@
     {
       "url": "https://raw.liucn.cc/box/m.json",
       "name": "💕幸福年年❤️-肥猫🐈💓"
-    },
-    {
-      "url": "https://ys.mohuajz.eu.org/凯少爷/凯少爷本地包.json",
-      "name": "💕幸福年年❤️-少爷本地包💓"
     },
     {
       "url": "http://154.12.37.204:8089/hebing",
@@ -67,10 +35,6 @@
     {
       "name": "幸福年年❤️❤️-幸福年年❤️影视💓-备用接口",
       "url": "https://d.kstore.dev/download/12703/api.json"
-    },
-    {
-      "url": "https://ys.mohuajz.eu.org/6758/青龙/1.json",
-      "name": "💕幸福年年❤️-青龙🐉💓"
     },
     {
       "url": "https://11405.kstore.space/xiaye/4k.json",
@@ -131,10 +95,6 @@
     {
       "name": "❤️🥮幸福年年❤️❤️仓库/影视",
       "url": "https://d.kstore.dev/download/4684/1api.json?password=d0e28b9dbb9d51773f231238b787789c-1732729526488"
-    },
-    {
-      "name": "❤️🥮幸福年年❤️❤️仓库/戏曲音乐",
-      "url": "https://ys.mohuajz.eu.org/戏曲音乐/api.json"
     },
     {
       "name": "❤️🥮幸福年年❤️❤️仓库/刺刺音乐",
