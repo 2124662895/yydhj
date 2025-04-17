@@ -8,6 +8,22 @@
       "url": "http://my.djian.top/dfgeg/dhsvj/raw/branch/maing/moyu.json",
       "name": "💕幸福年年❤️-摸鱼儿💓"
     },
+    {
+      "url": "https://ys.mohuajz.eu.org/江楠楠/江楠楠.json",
+      "name": "💕幸福年年❤️-江楠楠影视💓"
+    },
+    {
+      "url": "https://ys.mohuajz.eu.org/tvboxqq/戏曲音乐/api.json",
+      "name": "💕幸福年年❤️-戏曲音乐💓"
+    },
+    {
+      "url": "https://ys.mohuajz.eu.org//TVBoxOSC/本地仓/影视/api.json",
+      "name": "💕幸福年年❤️-潇洒💓"
+    },
+    {
+      "url": "http://110.40.74.165:666/yunfensi/yunfensi4k.json",
+      "name": "💕幸福年年❤️-奇迹云💓"
+    },
 {
       "url": "https://ys.mohuajz.eu.org/开心软件/api.json",
       "name": "💕幸福年年❤️-开心软件💓"
@@ -49,8 +65,8 @@
       "name": "💕幸福年年❤️-南风💓"
     },
     {
-      "name": "幸福年年❤️❤️-幸福年年❤️影视💓-备用接口",
-      "url": "https://d.kstore.dev/download/12703/api.json"
+      "name": "幸福年年❤️❤️-颜笙集合接口",
+      "url": "https://ys.mohuajz.eu.org/颜笙集合接口专用/ys.json"
     },
     {
       "url": "https://11405.kstore.space/xiaye/4k.json",
