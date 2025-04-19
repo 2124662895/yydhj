@@ -1,7 +1,7 @@
 {
   "urls": [
     {
-      "url": "https://ys.mohuajz.eu.org/苹果/2025.json",
+      "url": "https://d.kstore.dev/download/12703/2025.json",
       "name": "幸福年年❤️❤️仓库-主用接口"
     },
     {
