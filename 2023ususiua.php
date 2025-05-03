@@ -4,6 +4,14 @@
       "url": "http://my.djian.top/yutih2025/uuyug2025/raw/branch/maing/api.json",
       "name": "幸福年年❤️❤️仓库-主用接口"
     },
+  {
+      "url": "https://11293.kstore.space/tangwudong.json",
+      "name": "💕幸福年年❤️-唐舞桐影视💓"
+    },  
+    {
+      "url": "https://12523.kstore.space/hx.json",
+      "name": "💕幸福年年❤️-小桃4K🍋"
+    },
     {
       "url": "https://12523.kstore.space/hx.json",
       "name": "💕幸福年年❤️-4K接口💓"
