@@ -1,7 +1,7 @@
 {
   "urls": [
   {
-      "url": "http://my.djian.top/yutih2025/uuyug2025/raw/branch/maing/api.json",
+      "url": "http://年年幸福.icu:88/2823/api.json",
       "name": "幸福年年❤️❤️仓库-主用接口"
     },
   {
