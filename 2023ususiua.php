@@ -4,6 +4,10 @@
       "url": "http://年年幸福.icu:88/2823/api.json",
       "name": "幸福年年❤️❤️仓库-主用接口"
     },
+    {
+      "url": "http://年年幸福.icu:88/短剧/22.txt",
+      "name": "幸福年年❤️❤️仓库-蓝莓短剧"
+    },
   {
       "url": "https://11293.kstore.space/tangwudong.json",
       "name": "💕幸福年年❤️-唐舞桐影视💓"
