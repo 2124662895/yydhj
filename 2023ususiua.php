@@ -12,10 +12,6 @@
       "url": "https://9877.kstore.space/AnotherD/api.json",
       "name": "幸福年年❤️仓库-潇洒影视"
     },
-    {
-      "url": "https://7337.kstore.space/twvip/自用测试.json",
-      "name": "幸福年年❤️仓库-天微"
-    },
   {
       "url": "https://11293.kstore.space/tangwudong.json",
       "name": "💕幸福年年❤️-唐舞桐影视💓"
