@@ -1,7 +1,7 @@
 {
   "urls": [
   {
-      "url": "https://ys.mohuajz.eu.org/2823/api.json",
+      "url": "https://ys.mohuajz.eu.org/幸福年年/api.json",
       "name": "幸福年年❤️仓库-主用接口"
     },
   {
