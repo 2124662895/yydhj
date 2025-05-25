@@ -8,7 +8,10 @@
       "url": "https://7337.kstore.space/%E4%B8%83%E6%98%9F%E6%88%8F%E6%9B%B2/api.json",
       "name": "幸福年年❤️-七星戏曲"
     }, 
-    
+    {
+      "url": "https://ys.mohuajz.eu.org/年年有余/0525.json",
+      "name": "幸福年年❤️仓库-年年有余"
+    },
 {
       "url": "https://ys.mohuajz.eu.org/柒豪/柒豪4K.json",
       "name": "幸福年年❤️-柒豪"
