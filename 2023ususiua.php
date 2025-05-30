@@ -4,6 +4,10 @@
       "url": "http://cgecrg1234.xhwl.shop/年年岁岁/0525.json",
       "name": "年年岁岁💖💛-主用接口"
     },
+    {
+      "url": "http://150.158.112.123/jar/ce3.json",
+      "name": "年年岁岁💖💛-玉玉影视"
+    },
    {
       "url": "https://7337.kstore.space/%E4%B8%83%E6%98%9F%E6%88%8F%E6%9B%B2/api.json",
       "name": "年年岁岁💖💛-七星戏曲"
