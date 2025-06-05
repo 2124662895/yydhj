@@ -5,10 +5,6 @@
       "name": "年年岁岁💖💛-主用接口"
     },
     {
-      "url": "http://2017addg.xhykj.dpdns.org/百晓生/BXS.json",
-      "name": "年年岁岁💖💛-百晓生"
-    },
-    {
       "url": "http://150.158.112.123/jar/ce3.json",
       "name": "年年岁岁💖💛-玉玉影视"
     },
