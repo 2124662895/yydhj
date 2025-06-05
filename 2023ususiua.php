@@ -13,8 +13,8 @@
       "name": "年年岁岁💖💛-七星戏曲"
     }, 
     {
-      "url": "https://ys.mohuajz.eu.org/2025/0525.json",
-      "name": "年年岁岁💖💛仓库-年年有余"
+      "url": "https://d.kstore.dev/download/4684/%E5%B9%B8%E7%A6%8F%E5%B9%B4%E5%B9%B4/0525.json",
+      "name": "年年岁岁💖💛仓库-年年有余《已更新》"
     },
 {
       "url": "https://ys.mohuajz.eu.org/柒豪/柒豪4K.json",
