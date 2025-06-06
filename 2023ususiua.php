@@ -1,7 +1,7 @@
 {
   "urls": [
 {
-      "url": "http://2017addg.xhykj.dpdns.org/年年有余/0525.json",
+      "url": "https://d.kstore.dev/download/4684/%E5%B9%B4%E5%B9%B4%E6%9C%89%E4%BD%99/gfdc.json",
       "name": "年年岁岁💖💛-主用接口"
     },
     {
