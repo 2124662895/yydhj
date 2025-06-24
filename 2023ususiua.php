@@ -4,8 +4,24 @@
       "url": "https://d.kstore.dev/download/4684/%E5%B9%B4%E5%B9%B4%E6%9C%89%E4%BD%99/gfdc.json",
       "name": "年年岁岁💖💛-主用接口"
     },
+    {
+      "url": "http://cvsfd.osfs.top/boge/bgys/bogeys.json",
+      "name": "年年岁岁💖💛-波哥影视"
+    },
+    {
+      "url": "http://cvsfd.osfs.top/BXSTVBox/BXS.json",
+      "name": "年年岁岁💖💛-百晓生"
+    },
+    {
+      "url": "http://cvsfd.osfs.top/svip/svip.json",
+      "name": "年年岁岁💖💛-拾光趣乐屋"
+    },
+    {
+      "url": "https://gitee.com/ceoyyds/lu-you/raw/master/%E9%A2%86%E5%85%88%E5%BD%B1%E8%A7%86.json",
+      "name": "年年岁岁💖💛-茴香4K"
+    },
  {
-      "url": "https://vip.123pan.cn/1826583920/14614473",
+      "url": "https://github.moeyy.xyz/https://github.com/boossu/scaling-fishstick/blob/main/longshaoye.json",
       "name": "年年岁岁💖💛-啊龙🐉"
     },   
    {
