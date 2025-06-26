@@ -21,7 +21,7 @@
       "name": "年年岁岁💖💛-茴香4K"
     },
  {
-      "url": "https://github.moeyy.xyz/https://github.com/boossu/scaling-fishstick/blob/main/longshaoye.json",
+      "url": "https://gh.jasonzeng.dev/https://github.com/boossu/scaling-fishstick/blob/main/longshaoye.json",
       "name": "年年岁岁💖💛-啊龙🐉"
     },   
    {
