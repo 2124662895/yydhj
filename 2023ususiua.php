@@ -22,11 +22,11 @@
     },
  {
       "url": "https://gh.jasonzeng.dev/https://github.com/boossu/scaling-fishstick/blob/main/longshaoye.json",
-      "name": "年年岁岁💖💛-啊龙🐉"
+      "name": "年年岁岁💖💛-龙少爷"
     },   
    {
-      "url": "http://mitvbox.xyz/%E5%B0%8F%E7%B1%B3/DEMO.json",
-      "name": "年年岁岁💖💛-小米接口"
+      "url": "http://miqk.cc/%E5%B0%8F%E7%B1%B3/DEMO.json",
+      "name": "年年岁岁💖💛-小米"
     }, 
     {
       "url": "http://150.158.112.123/jar/ce3.json",
