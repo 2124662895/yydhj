@@ -25,7 +25,7 @@
       "name": "年年岁岁💖💛-龙少爷"
     },   
    {
-      "url": "http://miqk.cc/%E5%B0%8F%E7%B1%B3/DEMO.json",
+      "url": "http://mitvbox.xyz/%E5%B0%8F%E7%B1%B3/DEMO.json",
       "name": "年年岁岁💖💛-小米"
     }, 
     {
