@@ -5,7 +5,7 @@
       "name": "年年岁岁💖💛-主用接口"
     },
     {
-      "url": "http://cvsfd.osfs.top/boge/bgys/bogeys.json",
+      "url": "https://codeberg.org/ghbzhx/wdckhy/raw/branch/main/bogeys.json",
       "name": "年年岁岁💖💛-波哥影视"
     },
     {
@@ -20,14 +20,6 @@
       "url": "https://gitee.com/ceoyyds/lu-you/raw/master/%E9%A2%86%E5%85%88%E5%BD%B1%E8%A7%86.json",
       "name": "年年岁岁💖💛-茴香4K"
     },
- {
-      "url": "https://gh.jasonzeng.dev/https://github.com/boossu/scaling-fishstick/blob/main/longshaoye.json",
-      "name": "年年岁岁💖💛-龙少爷"
-    },   
-   {
-      "url": "http://mitvbox.xyz/%E5%B0%8F%E7%B1%B3/DEMO.json",
-      "name": "年年岁岁💖💛-小米"
-    }, 
     {
       "url": "http://150.158.112.123/jar/ce3.json",
       "name": "年年岁岁💖💛-玉玉影视"
