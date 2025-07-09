@@ -5,20 +5,12 @@
       "name": "幸福年年🌸-主用接口"
     },
     {
-      "url": "https://fel.forxhr.top:2022/down.php/043f798aefccf83dc3afd25208bbc73d.json",
-      "name": "幸福年年🌸丨香奈儿源"
-     },
-    {
-      "url": "http://xhztv.top/4k.json",
-      "name": "幸福年年🌸丨聚玩盒源"
-     },
-    {
-      "url": "https://gzy.lzo.publicvm.com",
-      "name": "幸福年年🌸丨刘公子线"
-     },
-    {
       "url": "https://codeberg.org/ghbzhx/wdckhy/raw/branch/main/bogeys.json",
       "name": "幸福年年🌸-波哥影视"
+    },
+    {
+      "url": "https://igdux.top/aMBJ",
+      "name": "幸福年年🌸-楚天阁影视"
     },
     {
       "url": "http://cvsfd.osfs.top/BXSTVBox/BXS.json",
