@@ -9,10 +9,6 @@
       "name": "幸福年年🌸-波哥影视"
     },
     {
-      "url": "https://igdux.top/aMBJ",
-      "name": "幸福年年🌸-楚天阁影视"
-    },
-    {
       "url": "http://cvsfd.osfs.top/BXSTVBox/BXS.json",
       "name": "幸福年年🌸-百晓生"
     },
