@@ -5,10 +5,6 @@
       "name": "幸福年年🌸-主用接口"
     },
     {
-      "url": "https://codeberg.org/ghbzhx/wdckhy/raw/branch/main/bogeys.json",
-      "name": "幸福年年🌸-波哥影视"
-    },
-    {
       "url": "http://cvsfd.osfs.top/BXSTVBox/BXS.json",
       "name": "幸福年年🌸-百晓生"
     },
@@ -49,16 +45,8 @@
       "name": "💕幸福年年🌸-王二小💓"
     },
     {
-      "url": "http://miqk.cc/%E5%B0%8F%E7%B1%B3/DEMO.json",
-      "name": "💕幸福年年🌸-小米💓"
-    },
-    {
       "url": "http://tv.laohu.cool/tvbox.json",
       "name": "幸福年年🌸💖💛-秒播"
-    },
-    {
-      "url": "http://110.40.74.165:666/yunfensi/yunfensi4k.json",
-      "name": "💕幸福年年🌸-奇迹云💓"
     },
     {
       "url": "https://gitee.com/yiwu369/6758/raw/master/青龙/1.json",
