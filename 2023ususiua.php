@@ -55,7 +55,7 @@
     {
       "url": "https://6492.kstore.space/xnf/xnf.json",
       "name": "幸福年年🌸💖💛🏚️>🐅环 宇 轩"
-    }
+    },
     {
       "name": "🎁🥮幸福年年🌸/瓜子影视",
       "url": "https://git.acwing.com/iduoduo/orange/-/raw/main/config.bin "
