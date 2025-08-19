@@ -2,8 +2,16 @@
 {
   "urls": [
 {
-      "url": "https://codeberg.org/froggy123/1656gugk/raw/branch/main/yydf.json",
-      "name": "幸福年年🌸-主用接口"
+      "url": "http://年年幸福.icu/pro/demo.json",
+      "name": "幸福年年🌸-集多"
+    },
+  {
+      "url": "http://年年幸福.icu/澜露/澜露.json",
+      "name": "幸福年年🌸-澜露"
+    },  
+    {
+      "url": "http://xn--hwtam458y.icu:55/流年影视/liunianys.html",
+      "name": "幸福年年🌸-流年影视"
     },
     {
       "url": "https://7337.kstore.space/%E4%B8%83%E6%98%9F%E6%88%8F%E6%9B%B2/api.json",
