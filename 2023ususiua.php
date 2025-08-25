@@ -2,9 +2,29 @@
 {
   "urls": [
 {
+      "url": "http://年年幸福.icu/年年有余/gfdc.json",
+      "name": "幸福年年🌸-幸福接口"
+    },
+    {
+      "url": "http://年年幸福.icu/fty/fty.json",
+      "name": "幸福年年🌸-饭太硬"
+    },
+    {
+      "url": "http://年年幸福.icu/音乐/api.json",
+      "name": "幸福年年🌸-音乐戏曲"
+    },
+    {
+      "url": "http://年年幸福.icu:55/龙潭//龙潭.json",
+      "name": "幸福年年🌸-龙潭"
+    },
+{
       "url": "http://年年幸福.icu/pro/demo.json",
       "name": "幸福年年🌸-集多"
     },
+    {
+      "url": "http://年年幸福.icu:55/小虎斑/tvbox/tvbox.json",
+      "name": "幸福年年🌸-小虎斑"
+    },  
   {
       "url": "http://年年幸福.icu/澜露/澜露.json",
       "name": "幸福年年🌸-澜露"
