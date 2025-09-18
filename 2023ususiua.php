@@ -6,6 +6,22 @@
       "name": "幸福年年🌸-幸福接口"
     },
     {
+      "url": "http://年年幸福.icu/开心/omg.json",
+      "name": "幸福年年🌸-开心影视"
+    },
+    {
+      "url": "http://年年幸福.icu/动漫帝国/dmtd.json",
+      "name": "幸福年年🌸-动漫帝国"
+    },
+    {
+      "url": "https://11293.kstore.space/xiaohuli.json",
+      "name": "幸福年年🌸-小狐狸"
+    },
+    {
+      "url": "https://8815.kstore.vip/tvbox/Ace",
+      "name": "幸福年年🌸-林中的小屋"
+    },
+    {
       "url": "http://年年幸福.icu/fty/fty.json",
       "name": "幸福年年🌸-饭太硬"
     },
