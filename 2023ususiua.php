@@ -2,7 +2,7 @@
 {
   "urls": [
 {
-      "url": "https://d.kstore.dev/download/4684/%E5%B9%B4%E5%B9%B4%E6%9C%89%E4%BD%99/2025jhdvs.json",
+      "url": "http://年年幸福.icu/年年有余/gfdc.json",
       "name": "幸福年年🌸-幸福接口"
     },
     {
