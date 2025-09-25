@@ -2,12 +2,8 @@
 {
   "urls": [
 {
-      "url": "http://年年幸福.icu/年年有余/gfdc.json",
+      "url": "https://d.kstore.dev/download/4684/%E5%B9%B4%E5%B9%B4%E6%9C%89%E4%BD%99/2025jhdvs.json",
       "name": "幸福年年🌸-幸福接口"
-    },
-    {
-      "url": "http://年年幸福.icu/开心/omg.json",
-      "name": "幸福年年🌸-开心影视"
     },
     {
       "url": "http://年年幸福.icu/动漫帝国/dmtd.json",
@@ -20,10 +16,6 @@
     {
       "url": "https://8815.kstore.vip/tvbox/Ace",
       "name": "幸福年年🌸-林中的小屋"
-    },
-    {
-      "url": "http://年年幸福.icu/fty/fty.json",
-      "name": "幸福年年🌸-饭太硬"
     },
     {
       "url": "http://年年幸福.icu/音乐/api.json",
@@ -72,10 +64,6 @@
     {
       "url": "https://9877.kstore.space/AnotherD/api.json",
       "name": "幸福年年🌸-潇洒影视"
-    },
-    {
-      "url": "http://我不是.摸鱼儿.com",
-      "name": "💕幸福年年🌸-摸鱼儿💓"
     },
     {
       "url": "https://9280.kstore.space/wex.json",
