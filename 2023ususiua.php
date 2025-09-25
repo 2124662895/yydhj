@@ -10,6 +10,22 @@
       "name": "幸福年年🌸-动漫帝国"
     },
     {
+      "url": "https://codeberg.org/froggy123/yydf2025/raw/branch/main/api.json",
+      "name": "幸福年年🌸-天神lY"
+    },
+    {
+      "url": "https://乐哥.xyz/dj.json",
+      "name": "幸福年年🌸-乐哥"
+    },
+    {
+      "url": "http://rihou.cc:88/demo.php",
+      "name": "幸福年年🌸-vox"
+    },
+    {
+      "url": "https://源.l5.ca/",
+      "name": "幸福年年🌸-刘公子"
+    },
+    {
       "url": "https://11293.kstore.space/xiaohuli.json",
       "name": "幸福年年🌸-小狐狸"
     },
@@ -24,10 +40,6 @@
     {
       "url": "http://年年幸福.icu:55/龙潭//龙潭.json",
       "name": "幸福年年🌸-龙潭"
-    },
-{
-      "url": "http://年年幸福.icu/pro/demo.json",
-      "name": "幸福年年🌸-集多"
     },
     {
       "url": "http://年年幸福.icu:55/小虎斑/tvbox/tvbox.json",
