@@ -2,12 +2,8 @@
 {
   "urls": [
 {
-      "url": "http://年年幸福.icu/年年有余/gfdc.json",
-      "name": "幸福年年🌸-幸福接口"
-    },
-    {
-      "url": "http://年年幸福.icu/蓝天白云/蓝天白云.json",
-      "name": "幸福年年🌸-蓝天白云"
+      "url": "http://年年幸福.icu/国庆幸福/hyhr.json",
+      "name": "幸福年年🌸-国庆接口"
     },
     {
       "url": "https://codeberg.org/froggy123/yydf2025/raw/branch/main/api.json",
@@ -20,14 +16,6 @@
     {
       "url": "http://rihou.cc:88/demo.php",
       "name": "幸福年年🌸-vox"
-    },
-    {
-      "url": "https://源.l5.ca/",
-      "name": "幸福年年🌸-刘公子"
-    },
-    {
-      "url": "http://年年幸福.icu/开心/omg.json",
-      "name": "幸福年年🌸-开心影视"
     },
     {
       "url": "http://年年幸福.icu/动漫帝国/dmtd.json",
