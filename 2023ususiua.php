@@ -6,6 +6,18 @@
       "name": "幸福年年🌸-幸福接口"
     },
     {
+      "url": "https://codeberg.org/froggy123/yydf2025/raw/branch/main/yimi.json",
+      "name": "幸福年年🌸-壹米影视"
+    },
+    {
+      "url": "https://codeberg.org/froggy123/yydf2025/raw/branch/main/xiqu.json",
+      "name": "幸福年年🌸-壹米戏曲"
+    },
+   {
+      "url": "https://codeberg.org/froggy123/yydf2025/raw/branch/main/srpd.json",
+      "name": "幸福年年🌸-壹米少儿"
+    }, 
+    {
       "url": "http://年年幸福.icu/动漫帝国/dmtd.json",
       "name": "幸福年年🌸-动漫帝国"
     },
