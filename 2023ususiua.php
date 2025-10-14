@@ -10,6 +10,11 @@
       "name": "幸福年年🌸-壹米影视"
     },
     {
+      "url": "https://codeberg.org/froggy123/yydf2025/raw/branch/main/api.json",
+      "name": "幸福年年🌸-备用接口"
+    },
+    
+    {
       "url": "https://codeberg.org/froggy123/yydf2025/raw/branch/main/xiqu.json",
       "name": "幸福年年🌸-壹米戏曲"
     },
