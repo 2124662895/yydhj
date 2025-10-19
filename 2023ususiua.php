@@ -2,7 +2,7 @@
 {
   "urls": [
 {
-      "url": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/2124662895/yydhj/mainvhh/hyhr.json",
+      "url": "https://12703.kstore.space/hyhr.json",
       "name": "幸福年年🌸-幸福接口"
     },
     {
