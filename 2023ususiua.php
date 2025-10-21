@@ -38,10 +38,7 @@
       "url": "http://jx.3116598.xyz/dj/JD.json",
       "name": "幸福年年🌸-短剧影视"
     },
-    {
-      "url": "https://gitee.com/yiwu369/6758/raw/master/青龙/1.json",
-      "name": "幸福年年🌸-青龙"
-    },
+
     {
       "url": "http://ok321.top/ok",
       "name": "幸福年年🌸-ok"
@@ -65,10 +62,6 @@
     {
       "url": "http://年年幸福.icu/音乐/api.json",
       "name": "幸福年年🌸-音乐戏曲"
-    },
-    {
-      "url": "http://年年幸福.icu:55/龙潭//龙潭.json",
-      "name": "幸福年年🌸-龙潭"
     },
   {
       "url": "http://年年幸福.icu/澜露/澜露.json",
@@ -94,21 +87,10 @@
       "url": "http://38.165.20.168/柒豪4K.json",
       "name": "幸福年年🌸-柒豪"
     },
-    {
-      "url": "http://枫斗.top/tv",
-      "name": "幸福年年🌸-枫斗"
-    },
-    {
-      "url": "https://9877.kstore.space/AnotherD/api.json",
-      "name": "幸福年年🌸-潇洒影视"
-    },
+
     {
       "url": "https://9280.kstore.space/wex.json",
       "name": "💕幸福年年🌸-王二小💓"
-    },
-    {
-      "url": "https://gitee.com/yiwu369/6758/raw/master/青龙/1.json",
-      "name": "💕幸福年年🌸-青龙🐉💓"
     },
     {
       "url": "https://cnb.cool/fish2018/pg/-/git/raw/master/jsm.json",
