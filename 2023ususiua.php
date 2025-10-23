@@ -6,16 +6,16 @@
       "name": "幸福年年🌸-幸福接口"
     },
     {
-      "url": "https://codeberg.org/froggy123/yydf2025/raw/branch/main/yimi.json",
+      "url": "http://年年幸福.icu/壹米/yimi.json",
       "name": "幸福年年🌸-壹米影视"
     },
     {
-      "url": "https://codeberg.org/froggy123/yydf2025/raw/branch/main/api.json",
-      "name": "幸福年年🌸-备用接口"
+      "url": "http://年年幸福.icu/fty/fty.json",
+      "name": "幸福年年🌸-饭太硬🌷"
     },
     
     {
-      "url": "https://codeberg.org/froggy123/yydf2025/raw/branch/main/xiqu.json",
+      "url": "http://年年幸福.icu/戏曲/xiqu.json",
       "name": "幸福年年🌸-壹米戏曲"
     },
    {
