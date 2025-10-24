@@ -13,7 +13,18 @@
       "url": "http://年年幸福.icu/fty/fty.json",
       "name": "幸福年年🌸-饭太硬🌷"
     },
-    
+    {
+      "url": "http://14.103.129.80:999/奇迹云2kmax/qijiyun.json",
+      "name": "幸福年年-奇迹云"
+    },
+    {
+      "url": "http://nn.qi-simple.top/common.json",
+      "name": "幸福年年-牛马🐴"
+    },
+    {
+      "url": "https://kong88.dpdns.org/4k.json",
+      "name": "幸福年年🌸-空空4K"
+    },
     {
       "url": "http://年年幸福.icu/戏曲/xiqu.json",
       "name": "幸福年年🌸-壹米戏曲"
