@@ -3,7 +3,11 @@
   "urls": [
   {
       "url": "http://154.36.173.40/tgyg/bbm.json",
-      "name": "幸福年年🍑"
+      "name": "幸福年年🍑【兼容ok影视】"
+    },
+    {
+      "url": "http://154.36.173.40/xfnn/bbm.json",
+      "name": "【兼容-幸福年年影视】"
     },
       {
       "name": "🐔集多VOX",
@@ -32,10 +36,6 @@
     {
       "url": "https://10352.kstore.vip/ok",
       "name": "ok"
-    },
-    {
-      "url": "http://cdn.qiaoji8.com/tvbox.json",
-      "name": "巧记"
     },
     {
       "url": "https://8815.kstore.vip/tvbox/Ace",
@@ -92,10 +92,6 @@
     {
       "name": "🦝PG",
       "url": "https://www.252035.xyz/p/jsm.json"
-    },
-    {
-      "name": "👌OK",
-      "url": "http://ok213.top/tv"
     },
     {
       "name": "🍙小米",
