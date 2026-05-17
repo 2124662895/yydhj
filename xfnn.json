@@ -2,20 +2,24 @@
 {
   "urls": [
   {
-      "url": "http://154.36.173.40/tgyg/bbm.json",
+      "url": "http://150.158.52.248/tgyg/bbm.json",
       "name": "幸福年年🍑"
     },
     {
-      "url": "http://154.36.173.40/2025/2025.json",
-      "name": "幸福客家🍓"
+      "url": "http://肥猫.net/tv",
+      "name": "肥猫🍑"
+    },
+    {
+      "url": "http://api.fumilong.com/%E7%93%9C%E5%AD%90.json",
+      "name": "瓜子🍑"
+    },
+    {
+      "url": "http://hb.小虎斑.site:25252/仅供测试/hbtcr.json",
+      "name": "虎斑🍑"
     },
     {
       "name": "西瓜汁🍉",
       "url": "https://d.kstore.dev/download/17520/tvbox/2026310jm.json"
-    },
-    {
-      "url": "https://11405.kstore.space/xiaye/qk4k.json",
-      "name": "夏夜4K"
     },
     {
       "url": "https://gitee.com/yimi321/ymys/raw/master/yimi.jpg",
