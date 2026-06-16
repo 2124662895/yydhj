@@ -1,12 +1,6 @@
+// 收集于网络，免费分享，仅供测试交流，禁止内置售卖！
 {
-  "remark": "收集于网络，免费分享，仅供测试交流，禁止内置售卖！",
-  "update": "2026-05-18",
-  "count": 12,
   "urls": [
-    {
-      "name": "🐔集多VOX",
-      "url": "http://rihou.cc:88/demo.php"
-    },
     {
       "url": "http://150.158.52.248/tgyg/bbm.json",
       "name": "幸福年年🍑"
@@ -24,44 +18,60 @@
       "name": "点播🍑"
     },
     {
-      "name": "🐅小脑斧",
-      "url": "http://cnmb.cc.cd/jk/xnf.json"
+      "url": "http://api.fumilong.com/%E7%93%9C%E5%AD%90.json",
+      "name": "瓜子🍑"
     },
     {
-      "name": "🍚太硬",
-      "url": "http://www.饭太硬.net/tv"
+      "url": "http://box.nihaohezi.com/app/hzjy.json",
+      "name": "教育专线"
     },
     {
-      "name": "💖真心",
-      "url": "https://www.252035.xyz/z/FongMi.json"
+      "url": "http://cnmb.cc.cd/jk/xnf.json",
+      "name": "🐅小脑斧"
     },
     {
-      "name": "🦝PG",
-      "url": "https://www.252035.xyz/p/jsm.json"
+      "url": "http://www.饭太硬.net/tv",
+      "name": "🍚太硬"
     },
     {
-      "name": "🎶欧歌",
-      "url": "https://xn--jggj-wn6lw489o.v.nxog.top/apia?id=3"
+      "url": "https://www.252035.xyz/z/FongMi.json",
+      "name": "💖真心"
     },
     {
-      "name": "💖4K",
-      "url": "http://tv.4kbox.top/4k/index.php"
+      "url": "https://www.252035.xyz/p/jsm.json",
+      "name": "🦝PG"
     },
     {
-      "name": "TG音乐",
-      "url": "https://7337.kstore.space/TGMTV/TGyinyue.txt"
+      "url": "http://tv.4kbox.top/4k/index.php",
+      "name": "💖4K"
     },
     {
-      "name": "戏曲",
-      "url": "http://mzrjk.top/戏曲"
+      "url": "https://xn--jggj-wn6lw489o.v.nxog.top/apia?id=3",
+      "name": "🎶欧歌"
     },
     {
-      "name": "音乐",
-      "url": "http://mzrjk.top/音乐"
+      "url": "https://7337.kstore.space/TGMTV/TGyinyue.txt",
+      "name": "TG音乐"
     },
     {
-      "name": "教育专线",
-      "url": "http://box.nihaohezi.com/app/hzjy.json"
+      "url": "http://mzrjk.top/戏曲",
+      "name": "戏曲"
+    },
+    {
+      "url": "http://mzrjk.top/音乐",
+      "name": "音乐"
+    },
+    {
+      "url": "https://乐哥.xyz/dj.json",
+      "name": "公子短剧"
+    },
+    {
+      "url": "https://盒子迷.top/短剧",
+      "name": "盒子短剧"
+    },
+    {
+      "url": "https://jihulab.com/ymz1231/xymz/-/raw/main/ymshaoer",
+      "name": "少儿频道"
     }
   ]
 }
