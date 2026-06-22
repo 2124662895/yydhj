@@ -1,63 +1,97 @@
 {
-  "remark": "收集于网络，免费分享，仅供测试交流，禁止内置售卖！",
-  "update": "2026-05-18",
-  "count": 13,
+  "warningText": "⚠️ 本多仓为公益分享，所有资源来自网络，仅限技术交流与个人测试使用！\n\n🔴 版权声明：\n1. 禁止搬运：未经授权，严禁将本配置搬运至其他站点、公众号或网盘引流。\n2. 禁止套壳：严禁删除原作者信息，修改后伪装成自己的作品发布。\n3. 禁止商用：严禁任何形式的倒卖、收费或植入非法广告。\n\n🚫 违规必究：发现盗用、二改不署名者，一律拉黑并公示黑名单！",
   "urls": [
     {
-      "name": "幸福年年🍑",
-      "url": "http://150.158.52.248/tgyg/bbm.json"
+      "url": "http://150.158.52.248/tgyg/bbm.json",
+      "name": "幸福年年🍑"
     },
     {
-      "name": "瓜子🍑",
-      "url": "http://api.fumilong.com/%E7%93%9C%E5%AD%90.json"
+      "url": "https://17264.kstore.space/豆包.jpg",
+      "name": "🫘豆包"
     },
     {
-      "name": "教育专线",
-      "url": "http://box.nihaohezi.com/app/hzjy.json"
+      "url": "https://9763.kstore.space/aowu.json",
+      "name": "🐱嗷呜"
     },
     {
-      "name": "🐅小脑斧",
-      "url": "http://cnmb.cc.cd/jk/xnf.json"
+      "url": "https://raw.giteeusercontent.com/wpider/original-aspiration/raw/master/初心.json",
+      "name": "初心🍑"
     },
     {
-      "name": "🍚太硬",
-      "url": "http://www.饭太硬.net/tv"
+      "url": "https://18168.kstore.space/临时的.json",
+      "name": "临时🍑"
     },
     {
-      "name": "💖真心",
-      "url": "https://www.252035.xyz/z/FongMi.json"
+      "url": "https://xpb.mhfs.eu.org/ZJ/XPB/api.json",
+      "name": "点播🍑"
     },
     {
-      "name": "🦝PG",
-      "url": "https://www.252035.xyz/p/jsm.json"
+      "url": "http://box.nihaohezi.com/app/hzjy.json",
+      "name": "教育专线"
     },
     {
-      "name": "💖4K",
-      "url": "http://tv.4kbox.top/4k/index.php"
+      "url": "http://cnmb.cc.cd/jk/xnf.json",
+      "name": "🐅小脑斧"
     },
     {
-      "name": "🎶欧歌",
-      "url": "https://xn--jggj-wn6lw489o.v.nxog.top/apia?id=3"
+      "url": "http://www.饭太硬.net/tv",
+      "name": "🍚太硬"
     },
     {
-      "name": "TG音乐",
-      "url": "https://7337.kstore.space/TGMTV/TGyinyue.txt"
+      "url": "https://www.252035.xyz/z/FongMi.json",
+      "name": "💖真心"
     },
     {
-      "name": "戏曲",
-      "url": "http://mzrjk.top/戏曲"
+      "url": "https://www.252035.xyz/p/jsm.json",
+      "name": "🦝PG"
     },
     {
-      "name": "音乐",
-      "url": "http://mzrjk.top/音乐"
+      "url": "http://tv.4kbox.top/4k/index.php",
+      "name": "💖4K"
     },
     {
-      "name": "公子短剧",
-      "url": "https://乐哥.xyz/dj.json"
+      "url": "https://xn--jggj-wn6lw489o.v.nxog.top/apia?id=3",
+      "name": "🎶欧歌"
     },
     {
-      "name": "盒子短剧",
-      "url": "https://盒子迷.top/短剧"
+      "url": "https://7337.kstore.space/TGMTV/TGyinyue.txt",
+      "name": "TG音乐"
+    },
+    {
+      "url": "http://mzrjk.top/戏曲",
+      "name": "戏曲"
+    },
+    {
+      "url": "http://mzrjk.top/音乐",
+      "name": "音乐"
+    },
+    {
+      "url": "https://乐哥.xyz/dj.json",
+      "name": "公子短剧"
+    },
+    {
+      "url": "https://盒子迷.top/短剧",
+      "name": "盒子短剧"
+    },
+    {
+      "url": "https://jihulab.com/ymz1231/xymz/-/raw/main/ymshaoer",
+      "name": "少儿频道"
+    },
+    {
+      "url": "http://tvbox.王二小放牛娃.top",
+      "name": "🐂王二小"
+    },
+    {
+      "url": "http://hb.小虎斑.site:25252/",
+      "name": "🐯小虎斑"
+    },
+    {
+      "url": "http://肥猫.com/",
+      "name": "🔵肥猫线路"
+    },
+    {
+      "url": "http://我不是.摸鱼儿.top",
+      "name": "🔵摸鱼接口①"
     }
   ]
 }
