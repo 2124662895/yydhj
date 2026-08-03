@@ -1,13 +1,9 @@
 {
-  "warningText": "⚠️ 本多仓为公益分享，所有资源来自网络，仅限技术交流与个人测试使用！\n\n🔴 版权声明：\n1. 禁止搬运：未经授权，严禁将本配置搬运至其他站点、公众号或网盘引流。\n2. 禁止套壳：严禁删除原作者信息，修改后伪装成自己的作品发布。\n3. 禁止商用：严禁任何形式的倒卖、收费或植入非法广告。\n\n🚫 违规必究：发现盗用、二改不署名者，一律拉黑并公示黑名单！",
+  "warningText": "⚠️ 本多仓为公益分享，所有资源来自网络，仅限技术交流与个人测试使用！\n\n🔴 版权声明：\n1. 禁止搬运：未经授权，严禁将本配置搬运至其他站点、公众号或网盘引流。\n2. 禁止套壳：严禁删除原作者信息，修改后伪装成自己的作品发布。\n3. 禁止商用：严禁任何形式的倒卖、收费或植入非法广告。\n\n🚫 违规必究：发现盗用、二改不署名者，一律拉黑并公示黑名单！\n资源更新渠道：公众号:微风的小星",
   "urls": [
     {
       "url": "http://150.158.52.248/tgyg/bbm.json",
       "name": "幸福年年🍑"
-    },
-    {
-      "url": "http://mmgdfs.bbroot.com/tgyg/bbm.json",
-      "name": "关注公众号:微风的小星"
     },
     {
       "url": "https://cnb.cool/fish2018/xs/-/git/raw/main/api.json",
@@ -82,7 +78,7 @@
       "name": "少儿频道"
     },
     {
-      "url": "http://tvbox.王二小放牛娃.top",
+      "url": "http://tv.王二小放牛娃.top",
       "name": "🐂王二小"
     },
     {
@@ -96,6 +92,18 @@
     {
       "url": "http://我不是.摸鱼儿.top",
       "name": "🔵摸鱼接口①"
+    },
+    {
+      "url": "https://hd.lytvs.top/蝴蝶影视全量版2la.json",
+      "name": "🦋蝴蝶全量2la"
+    },
+    {
+      "url": "http://宝盒接口.top",
+      "name": "📦 宝盒、"
+    },
+    {
+      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/energy65/yl/refs/heads/main/forever.json",
+      "name": "🎬 源力forever·完整点播"
     }
   ]
 }
