@@ -78,7 +78,7 @@
       "name": "少儿频道"
     },
     {
-      "url": "http://tvbox.王二小放牛娃.top",
+      "url": "http://tv.王二小放牛娃.top",
       "name": "🐂王二小"
     },
     {
@@ -94,12 +94,28 @@
       "name": "🔵摸鱼接口①"
     },
     {
+      "url": "https://hd.lytvs.top/蝴蝶影视全量版2la.json",
+      "name": "🦋蝴蝶全量2la"
+    },
+    {
       "url": "http://宝盒接口.top",
-      "name": "📦 宝盒、"
+      "name": "📦 宝盒"
     },
     {
       "url": "https://gh-proxy.org/https://raw.githubusercontent.com/energy65/yl/refs/heads/main/forever.json",
       "name": "🎬 源力forever·完整点播"
+    },
+    {
+      "url": "http://qishisanzhong.site/TVBoxOSC/tvbox/api.json",
+      "name": "😎潇洒"
+    },
+    {
+      "url": "http://qishisanzhong.site/肥猫2k/002.txt",
+      "name": "🐱肥猫2K"
+    },
+    {
+      "url": "http://qishisanzhong.site/4k/4k",
+      "name": "✨高清4K专线"
     }
   ]
 }
