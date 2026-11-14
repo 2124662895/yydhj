@@ -42,40 +42,20 @@
       "name": "🦝PG"
     },
     {
-      "url": "https://xn--jggj-wn6lw489o.v.nxog.top/apia?id=3",
-      "name": "🎶欧歌"
-    },
-    {
-      "url": "http://mzrjk.top/戏曲",
-      "name": "戏曲"
-    },
-    {
-      "url": "https://乐哥.xyz/dj.json",
-      "name": "公子短剧"
-    },
-    {
       "url": "https://盒子迷.top/短剧",
       "name": "盒子短剧"
     },
     {
       "url": "https://jihulab.com/ymz1231/xymz/-/raw/main/ymshaoer",
-      "name": "少儿频道"
+      "name": "儿童接口"
     },
     {
       "url": "http://hb.小虎斑.site:25252/",
       "name": "🐯小虎斑"
     },
     {
-      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/energy65/yl/refs/heads/main/forever.json",
-      "name": "🎬 源力forever·完整点播"
-    },
-    {
       "url": "http://itv666.cc/aowu/config.webp",
       "name": "NewBox点播接口"
-    },
-    {
-      "url": "http://8.148.229.212:802/4k踏天s2/4k踏天s2.json",
-      "name": "4K踏天s2"
     },
     {
       "url": "http://影视仓.com/",
@@ -84,6 +64,30 @@
     {
       "url": "https://700sjro44343.vicp.fun/eggp/qiezi/tv.php",
       "name": "茄子"
+    },
+    {
+      "url": "https://gitee.com/cycod/tvbox/raw/master/api.json",
+      "name": "初忆"
+    },
+    {
+      "url": "http://fty.333232.xyz/tv",
+      "name": "饭太硬"
+    },
+    {
+      "url": "http://tvbox.xn--4kq62z5rby2qupq9ub.top/",
+      "name": "王小二"
+    },
+    {
+      "url": "https://pan.szfx.top/down.php/7e58cb2e7e4cef01693629e38589928a.txt",
+      "name": "小米"
+    },
+    {
+      "url": "http://8.138.7.223/tv.txt",
+      "name": "榴芒电视"
+    },
+    {
+      "url": "http://宝盒接口.top",
+      "name": "月光宝盒 宝盒4K"
     }
   ]
 }
